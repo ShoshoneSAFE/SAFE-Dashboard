@@ -161,3 +161,6 @@ const DEFAULT_REV=[
   {id:'rev-0023',n:'Solid Waste (0023)',fund:'special',b:1671816,v:296667,notes:[]},
   {id:'rev-0020',n:'Appraisal (0020)',fund:'special',b:436446,v:263485,notes:[]},
 ];
+
+let D=DEFAULT_D;
+let REV=DEFAULT_REV;
